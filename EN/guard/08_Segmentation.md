@@ -12,7 +12,7 @@ Segment and separate information based on sensitivity of information.
 ## Validation
 
 * [ ] Confirm that SAFER lab devices cannot be connected to ESDC network.
-* [ ] Confirm that SAFER lab devices cannot transfer data to and from ESDC network through storage devices. 
+* [ ] Confirm that SAFER lab devices cannot transfer data to and from ESDC network through storage devices.
 
 ## Applicable Service Models
 

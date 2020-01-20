@@ -15,7 +15,7 @@ Establish MOU for defensive services and threat monitoring protection services.
 
 ## Applicable Service Models
 
-* All lab devices 
+* All lab devices
 
 ## References
 

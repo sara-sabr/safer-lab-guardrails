@@ -6,7 +6,7 @@ Establish external and internal network perimeters and monitor network traffic.
 
 ## Key Considerations
 
-* [ ] Ensure that egress/ingress points to and from SAFER labs are managed and monitored. 
+* [ ] Ensure that egress/ingress points to and from SAFER labs are managed and monitored.
 * [ ] Prevent and disable network access upon detection of ESDC network access.
 * [ ] Ensure firewall and endpoint protection are installed on devices.
 

@@ -13,9 +13,9 @@ Protect root or administrator account(s) used by the devices hosted on the SAFER
 ## Validation
 
 * [ ] Confirm password policies are configured and set for each device.
-* [ ] Confirm passwords are unique to each device. 
+* [ ] Confirm passwords are unique to each device.
 * [ ] Confirm on return of device, the administrator's account password was not changed.
-* [ ] Confirm all login attempts will administrator accounts are logged and sent to central SIEM. 
+* [ ] Confirm all login attempts will administrator accounts are logged and sent to central SIEM.
 
 ## Additional Considerations
 

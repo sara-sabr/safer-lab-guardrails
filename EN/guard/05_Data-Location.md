@@ -12,7 +12,7 @@ Establish policies to restrict GC sensitive workloads from being inserted into d
 
 * [ ] Confirm policy and tagging for data location.
 * [ ] Borrower to sign MOU before device released.
-* [ ] Borrower is not to place sensitive data on devices. 
+* [ ] Borrower is not to place sensitive data on devices.
 
 ## Applicable Service Models
 

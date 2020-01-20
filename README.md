@@ -1,5 +1,5 @@
 >>>
-:construction: This is a WORK IN PROGRESS. 
+:construction: This is a WORK IN PROGRESS.
 >>>
 
 # SAFER Lab Guardrails
@@ -8,7 +8,7 @@ This project will host the guardrails the SAFER lab will adhere to and implement
 
 ## Purpose
 
-The purpose of the guardrails is to ensure we have a baseline set of controls within the SAFER lab. These guardrails ensure we remain secure within 30 days of a device type being onboarded. 
+The purpose of the guardrails is to ensure we have a baseline set of controls within the SAFER lab. These guardrails ensure we remain secure within 30 days of a device type being onboarded.
 
 ## Summary - Initial 30 Days
 
