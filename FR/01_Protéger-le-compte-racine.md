@@ -1,4 +1,4 @@
-# Protéger le compte racine ou des administrateurs généraux 
+# Protéger le compte racine ou des administrateurs généraux
 
 ## Objectif
 
@@ -9,7 +9,7 @@ Protégez le compte racine ou principal utilisé pour établir le service d’in
 * [ ] Mettre en œuvre un mécanisme d’authentification multifacteur (MFA) pour le compte racine ou principal.
 * [ ] Consigner une procédure d’urgence de gestion des comptes en cas de bris de verre. Y compris les noms des utilisateurs ayant accès au compte racine ou principal.
 * [ ] Obtenir la signature du dirigeant principal de l’information (DPI) et du dirigeant principal de la sécurité (DPS) pour confirmer la reconnaissance et l’approbation des procédures d’urgence de gestion des comptes en cas de bris de verre.
-* [ ] Mettre en œuvre un mécanisme pour l’application des autorisations d’accès. 
+* [ ] Mettre en œuvre un mécanisme pour l’application des autorisations d’accès.
 * [ ] Configurez les alertes appropriées sur les comptes racine ou principaux pour détecter un compromis possible, conformément à Orientation sur la consignation des événements du GC.
 
 ## Validation

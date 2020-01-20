@@ -35,4 +35,3 @@ Protect root or administrator account(s) used by the devices hosted on the SAFER
 4. [Ubuntu SSSD and Active Directory](https://help.ubuntu.com/lts/serverguide/sssd-ad.html)
 5. [Integrate Active Directory using Directory Utility on Mac](https://support.apple.com/en-ca/guide/directory-utility/diru39a25fa2/mac)
 6. [Manage Chrome devices with Active Directory](https://support.google.com/chrome/a/answer/7497916?hl=en)
-
