@@ -33,4 +33,3 @@ Protégez le compte racine ou principal utilisé pour établir le service d’in
 4. Voir le [modèle](https://gcconnex.gc.ca/file/view/55010566/break-glass-emergency-account-procedure-departments-can-use-to-develop-their-emergency-access-management-controls-for-cloud?language=en) d’une procédure d’urgence de gestion des comptes en cas de bris de verre.
 5. Consulter l’Orientation sur la consignation des événements du GC.
 6. Mesures de sécurité connexes : AC-2, AC-2(1), AC-3, AC-5, AC-6, AC-6(5), AC-6(10), AC-7, AC-9, AC-19, AC-20(3), IA-2, IA-2(1), IA-2(2), IA-2(11), IA-4, IA-5, IA-5(1), IA-5(6), IA-5(7), IA-5(13), IA-6, IA-8.
-
