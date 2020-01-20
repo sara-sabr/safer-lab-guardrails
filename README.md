@@ -25,5 +25,3 @@ The purpose of the guardrails is to ensure we have a baseline set of controls wi
 | 09 | [Network security services](EN/guard/09_Network-Security-Services.md) |
 | 10 | [Cyber defense services](EN/guard/10_Cyber-Defense-Services.md) |
 | 11 | [Logging and monitoring](EN/guard/11_Logging-and-Monitoring.md) |
-
-
