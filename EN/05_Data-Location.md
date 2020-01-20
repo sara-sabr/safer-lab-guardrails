@@ -2,19 +2,22 @@
 
 ## Objective
 
-Establish policies to restrict GC sensitive workloads to approved geographic locations.
+Establish policies to restrict GC sensitive workloads from being inserted into device.
 
 ## Key Considerations
 
-* [ ] As per the Direction on Electronic Data Residency (ITPIN 2017-02), &quot;All sensitive electronic data under government control, that has been categorized as Protected B, Protected C or is Classified, will be stored in a GC-approved computing facility located within the geographic boundaries of Canada or within the premises of a GC department located abroad, such as a diplomatic or consular mission.&quot;
+* [ ] As per the Direction on Electronic Data Residency (ITPIN 2017-02), &quot;All sensitive electronic data under government control, that has been cat    egorized as Protected B, Protected C or is Classified, will be stored in a GC-approved computing facility located within the geographic boundaries of Canada or within the premises of a GC department located abroad, such as a diplomatic or consular mission.&quot;
 
 ## Validation
 
 * [ ] Confirm policy and tagging for data location.
+* [ ] Borrower to sign MOU before device released.
+* [ ] Borrower is not to place sensitive data on devices. 
 
 ## Applicable Service Models
 
-* IaaS, PaaS, SaaS
+* MS Intune
+* Cloud services on any devices
 
 ## References
 
